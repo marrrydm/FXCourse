@@ -1,0 +1,380 @@
+"title1" = "Introduction to Forex Trading";
+"title2" = "Basics of Technical Analysis in Forex Trading";
+"title3" = "Fundamental Analysis in Forex Trading";
+"title4" = "Risk Management in Forex Trading";
+"title5" = "What is the main goal of scalping in Forex trading?";
+"title6" = "Developing a Forex Trading Strategy";
+"title7" = "Trading Psychology and Emotions";
+"title8" = "Trading Tools and Platforms";
+"title9" = "Choosing a Forex Broker";
+"title10" = "Advanced Forex Trading Strategies";
+
+"My courses" = "My courses";
+"Read the lesson" = "Read the lesson";
+"Lesson" = "Lesson";
+"Lesson 2" = "Lesson 2";
+"Lesson 3" = "Lesson 3";
+"Lesson 4" = "Lesson 4";
+"Lesson 5" = "Lesson 5";
+"Lesson 6" = "Lesson 6";
+"Lesson 7" = "Lesson 7";
+"Lesson 8" = "Lesson 8";
+"Lesson 9" = "Lesson 9";
+"Lesson 10" = "Lesson 10";
+
+"time1.1" = "Understanding the Forex market";
+"time1.2" = "How Forex trading works";
+"time1.3" = "Key participants in the Forex market and their roles";
+"time1.4" = "Popular currency pairs and their characteristics";
+
+"time2.1" = "Introduction to technical analysis";
+"time2.2" = "Essential tools of technical analysis: charts, indicators, etc.";
+"time2.3" = "Identifying trends and chart patterns";
+"time2.4" = "Using technical analysis to make trading decisions";
+
+"time3.1" = "Introduction to fundamental analysis";
+"time3.2" = "Key economic indicators that impact Forex markets";
+"time3.3" = "Analyzing economic data and news events";
+"time3.4" = "Combining fundamental and technical analysis in trading";
+
+"time4.1" = "Importance of risk management in Forex trading";
+"time4.2" = "Setting up stop-loss and take-profit levels";
+"time4.3" = "Determining position sizes based on risk tolerance";
+"time4.4" = "Avoiding common risk management mistakes";
+
+"time5.1" = "Overview of various trading styles: scalping, day trading, swing trading, etc.";
+"time5.2" = "Identifying the best trading style for your personality and schedule";
+"time5.3" = "Advantages and disadvantages of each trading style";
+"time5.4" = "Tips for successful implementation of different trading styles";
+
+"time6.1" = "Building a solid trading plan";
+"time6.2" = "Setting trading goals and objectives";
+"time6.3" = "Defining entry and exit rules";
+"time6.4" = "Testing and optimizing your trading strategy";
+
+"time7.1" = "Understanding the impact of emotions on trading decisions";
+"time7.2" = "Common psychological biases that affect Forex traders";
+"time7.3" = "Techniques for managing emotions and staying disciplined";
+"time7.4" = "Cultivating a strong trading mindset";
+
+"time8.1" = "Overview of popular trading platforms for Forex";
+"time8.2" = "Essential trading tools and resources";
+"time8.3" = "Customizing your trading platform for better efficiency";
+"time8.4" = "Exploring advanced trading features and options";
+
+"time9.1" = "Factors to consider when selecting a Forex broker";
+"time9.2" = "Evaluating broker regulations and reliability";
+"time9.3" = "Account types, spreads, and fees";
+"time9.4" = "Tips for finding the right broker for your trading needs";
+
+"time10.1" = "Exploring advanced trading techniques: hedging, carry trading, etc.";
+"time10.2" = "Implementing advanced technical indicators and patterns";
+"time10.3" = "Incorporating macroeconomic analysis into your trading strategies";
+"time10.4" = "Enhancing risk-adjusted returns with sophisticated trading methods";
+
+"1 min" = "1 min";
+"desc1" = "this lesson will help you learn";
+"test1.1" = "I already know that! Go to the test!";
+"test1.2" = "Let's check your knowledge, what if you missed something?";
+"Take the test" = "Take the test";
+
+"That's great!" = "That's great!";
+"result.description" = "To be honest, we didn't expect you to do so well. We are sure that you will have a brilliant career as a trader. In the meantime, we need to study the following lesson";
+"correct" = "correct";
+"Next" = "Next";
+
+"Quiz" = "Quiz";
+"question1.1" = "What is Forex trading?";
+"question1.2" = "How does Forex trading work?";
+"question1.3" = "Who are the key participants in the Forex market?";
+"answer1.1.1" = "a) Buying and selling stocks";
+"answer1.1.2" = "b) Buying and selling currencies";
+"answer1.1.3" = "c) Buying and selling real estate";
+"answer1.2.1" = "a) By buying and selling the same currency";
+"answer1.2.2" = "b) By buying one currency and selling another currency simultaneously";
+"answer1.2.3" = "c) By buying and selling commoditie";
+"answer1.3.1" = "a) Retail traders only";
+"answer1.3.2" = "b) Central banks, commercial banks, financial institutions, and retail traders";
+"answer1.3.3" = "c) Only multinational corporations";
+
+"question2.1" = "What is the main focus of technical analysis in Forex trading?";
+"question2.2" = "What are some essential tools used in technical analysis?";
+"question2.3" = "How can technical analysis help traders in Forex trading?";
+"answer2.1.1" = "a) Economic indicators and geopolitical events";
+"answer2.1.2" = "b) Historical price data and market patterns";
+"answer2.1.3" = "c) Fundamental analysis";
+"answer2.2.1" = "a) Economic calendars and news events";
+"answer2.2.2" = "b) Charts, indicators, and trendlines";
+"answer2.2.3" = "c) Interest rates and inflation data";
+"answer2.3.1" = "a) By predicting economic indicators";
+"answer2.3.2" = "b) By setting entry and exit points for trades";
+"answer2.3.3" = "c) By analyzing geopolitical events";
+
+"question3.1" = "What is the main purpose of fundamental analysis in Forex trading?";
+"question3.2" = "Which of the following is NOT a key economic indicator that impacts Forex markets?";
+"question3.3" = "How do traders use fundamental and technical analysis together in Forex trading?";
+"answer3.1.1" = "a) To analyze historical price data";
+"answer3.1.2" = "b) To evaluate economic, financial, and geopolitical factors";
+"answer3.1.3" = "c) To identify chart patterns for short-term trading";
+"answer3.2.1" = "a) Gross Domestic Product (GDP)";
+"answer3.2.2" = "b) Inflation rates";
+"answer3.2.3" = "c) Stock market performance";
+"answer3.3.1" = "a) Fundamental analysis is used for long-term trends, while technical analysis is used for short-term trading decisions.";
+"answer3.3.2" = "b) Traders use either fundamental analysis or technical analysis, not both.";
+"answer3.3.3" = "c) Fundamental analysis is only used for analyzing economic data releases.";
+
+"question4.1" = "What is the purpose of risk management in Forex trading?";
+"question4.2" = "What is a stop-loss level?";
+"question4.3" = "How can traders determine position sizes based on risk tolerance?";
+"answer4.1.1" = "a) To maximize profits";
+"answer4.1.2" = "b) To protect capital and minimize potential losses";
+"answer4.2.1" = "a) The level at which a trade is opened";
+"answer4.2.2" = "b) An order placed to automatically close a trade at a specified price level";
+"answer4.3.1" = "a) By calculating the appropriate position size based on the take-profit level";
+"answer4.3.2" = "b) By calculating the appropriate position size based on the stop-loss level and desired risk percentage (Correct answer)";
+
+"question5.1" = "What is the main goal of scalping in Forex trading?";
+"question5.2" = "Which trading style involves holding positions for several weeks or even months?";
+"question5.3" = "What is the primary focus of position trading?";
+"answer5.1.1" = "a) To hold positions for several days or weeks";
+"answer5.1.2" = "b) To make quick profits by entering and exiting trades within seconds or minutes";
+"answer5.1.3" = "c) To capitalize on short-term price fluctuations";
+"answer5.2.1" = "a) Scalping";
+"answer5.2.2" = "b) Day trading";
+"answer5.2.3" = "c) Swing trading";
+"answer5.3.1" = "a) Making quick profits from short-term price movements";
+"answer5.3.2" = "b) Holding positions for several weeks or months";
+"answer5.3.3" = "c) Using computer algorithms to execute trades automatically";
+
+"question6.1" = "What is the importance of having a trading plan in Forex?";
+"question6.2" = "Why is setting clear trading objectives important?";
+"question6.3" = "What is the purpose of testing and optimizing a trading strategy?";
+"answer6.1.1" = "a) It helps in setting unrealistic trading goals";
+"answer6.1.2" = "b) It provides a roadmap for successful trading";
+"answer6.1.3" = "c) It guarantees consistent profits";
+"answer6.2.1" = "a) It helps in generating random profits";
+"answer6.2.2" = "b) It helps in measuring progress and success";
+"answer6.2.3" = "c) It leads to impulsive trading decisions";
+"answer6.3.1" = "a) To avoid backtesting historical data";
+"answer6.3.2" = "b) To refine and improve the strategy's performance";
+"answer6.3.3" = "c) To implement the strategy in live trading immediately";
+
+"question7.1" = "What is one common psychological bias that can affect Forex traders?";
+"question7.2" = "How can traders manage emotions effectively during trading?";
+"question7.3" = "What is the importance of developing a strong trading mindset?";
+"answer7.1.1" = "a) Fear of Missing Out (FOMO)";
+"answer7.1.2" = "b) Fear of Losing (FOL)";
+"answer7.1.3" = "c) Both a) and b)";
+"answer7.2.1" = "a) By disregarding risk management principles";
+"answer7.2.2" = "b) By setting stop-loss and take-profit levels in advance";
+"answer7.2.3" = "c) By making hasty trading decisions";
+"answer7.3.1" = "a) To chase after quick profits";
+"answer7.3.2" = "b) To accept losses as part of trading";
+"answer7.3.3" = "c) To make impulsive trading decisions";
+
+"question8.1" = "Which trading platform is commonly used by Forex traders?";
+"question8.2" = "What are some essential trading tools?";
+"question8.3" = "What advantage do modern trading platforms offer?";
+"answer8.1.1" = "a) MetaTrader 4";
+"answer8.1.2" = "b) MetaTrader 5";
+"answer8.1.3" = "c) NinjaTrader";
+"answer8.2.1" = "a) Social media platforms";
+"answer8.2.2" = "b) Economic calendars";
+"answer8.2.3" = "c) Food recipes";
+"answer8.3.1" = "a) Inability to customize";
+"answer8.3.2" = "b) Limited trading features";
+"answer8.3.3" = "c) Customization options";
+
+"question9.1" = "What is the most important factor to consider when choosing a Forex broker?";
+"question9.2" = "Why is it essential to choose a broker with competitive spreads?";
+"question9.3" = "What should you consider when evaluating a broker's trading platform?";
+"answer9.1.1" = "a) Account types";
+"answer9.1.2" = "b) Regulation and reliability";
+"answer9.1.3" = "c) Customer support";
+"answer9.1.4" = "d) Educational resources";
+"answer9.2.1" = "a) It allows for more cost-effective trading";
+"answer9.2.2" = "b) It provides better customer support";
+"answer9.2.3" = "c) It offers a user-friendly trading platform";
+"answer9.2.4" = "d) It enhances educational resources";
+"answer9.3.1" = "a) Educational resources";
+"answer9.3.2" = "b) Deposit and withdrawal options";
+"answer9.3.3" = "c) Trading tools and resources";
+"answer9.3.4" = "d) Real-time price quotes and order execution capabilities";
+
+"question10.1" = "What is the main purpose of hedging in Forex trading?";
+"question10.2" = "What does carry trading involve?";
+"question10.3" = "What is the role of macroeconomic analysis in advanced Forex trading strategies?";
+"answer10.1.1" = "a) To maximize profits";
+"answer10.1.2" = "b) To protect against adverse price movements";
+"answer10.2.1" = "a) Buying low and selling high";
+"answer10.2.2" = "b) Taking advantage of interest rate differentials between two currencies";
+"answer10.3.1" = "a) Identifying potential entry and exit points in the market";
+"answer10.3.2" = "b) Understanding economic indicators that influence currency values";
+
+"Edit Profile" = "Edit Profile";
+"Edit" = "Edit";
+"Change Profile Photo" = "Change Profile Photo";
+"Nickname" = "Nickname";
+"Description" = "Description";
+"Cancel" = "Cancel";
+"Done" = "Done";
+
+"Newsline" = "Newsline";
+"New post" = "New post";
+"Write your news..." = "Write your news...";
+
+"Settings" = "Settings";
+"News" = "News";
+"Courses" = "Courses";
+"passed" = "Passed";
+
+"We were unable to load your photos" = "We were unable to load your photos";
+"You can enable access in Privacy Settings" = "You can enable access in Privacy Settings";
+
+
+
+
+"onboarding.title0" = "Improve your experience
+of the app";
+"onboarding.content0" = 'Select "Allow Tracking" on the next screen to minimize how often ads appear';
+"onboarding.nextButton0" = "Next";
+
+"time11.1" = "Introduction to Forex Trading";
+"time11.2" = "What are Currencies?";
+"time11.3" = "Forex Market Participants";
+"time11.4" = "How Forex Trading Works";
+"time11.5" = "Key Forex Terminology";
+"time11.6" = "How Buy and Sell Orders Work";
+
+"time12.1" = "Introduction to Currency Pairs";
+"time12.2" = "Fundamental Analysis";
+"time12.3" = "Technical Analysis";
+"time12.4" = "Correlation Between Currency Pairs";
+"time12.5" = "Identifying Trading Opportunities";
+
+"time13.1" = "Placing Forex Trades";
+"time13.2" = "Managing Risk in Forex Trading";
+"time13.3" = "Leverage and Margin";
+"time13.4" = "Emotional Discipline";
+"time13.5" = "Monitoring Trades and Exiting";
+"time13.6" = "Conclusion";
+
+"time14.1" = "Start Early: The Power of Compound Interest";
+"time14.2" = "Retirement Accounts and Investments";
+"time14.3" = "Pension Plans and Social Security";
+"time14.4" = "Setting Retirement Goals";
+"time14.5" = "Embracing Retirement Savings Strategies";
+"time14.6" = "Conclusion";
+
+"time15.1" = "Real Estate Investment";
+"time15.2" = "Dividend Stocks and Investments";
+"time15.3" = "Creating an Online Business";
+"time15.4" = "Peer-to-Peer Lending and Crowdfunding";
+"time15.5" = "Building a Portfolio of Income Streams";
+"time15.6" = "Conclusion";
+
+"time16.1" = "Importance of Financial Independence";
+"time16.2" = "Strategies for Achieving Financial Independence";
+"time16.3" = "The Role of Investments and Income";
+"time16.4" = "Lifestyle Adjustments for Long-Term Savings";
+"time16.5" = "Legacy Planning and Estate Management";
+"time16.6" = "Conclusion";
+"2 min" = "2 min";
+
+"question11.1" = "What is the primary purpose of Forex trading?";
+"question11.2" = "What are currency pairs in the Forex market?";
+"question11.3" = "Who are the participants in the Forex market?";
+"answer11.1.1" = "a) To collect rare and valuable currencies";
+"answer11.1.2" = "b) To profit from the fluctuations in currency prices.";
+"answer11.1.3" = "c) To promote cross-border tourism";
+"answer11.2.1" = "a) Combinations of two different languages";
+"answer11.2.2" = "b) Combinations of two different countries";
+"answer11.2.3" = "c) Combinations of two different currencies for trading";
+"answer11.3.1" = "a) Only retail traders and central banks";
+"answer11.3.2" = "b) Only multinational corporations";
+"answer11.3.3" = "c) Various entities including retail traders, institutional investors, and central banks";
+
+"question12.1" = "What are the three categories of currency pairs in Forex trading?";
+"question12.2" = "Which type of analysis involves assessing economic indicators, political events, and central bank policies?";
+"question12.3" = "What does positive correlation between two currency pairs mean?";
+"answer12.1.1" = "a) Major, intermediate, exotic";
+"answer12.1.2" = "b) Major, minor, exotic";
+"answer12.1.3" = "c) Primary, secondary, exotic";
+"answer12.2.1" = "a) Technical analysis";
+"answer12.2.2" = "b) Sentiment analysis";
+"answer12.2.3" = "c) Fundamental analysis";
+"answer12.3.1" = "a) They have no relationship";
+"answer12.3.2" = "b) They move in opposite directions";
+"answer12.3.3" = "c) They move in the same direction";
+
+"question13.1" = "What is the purpose of setting a stop-loss order in Forex trading?";
+"question13.2" = "What is the significance of leverage in Forex trading?";
+"question13.3" = "Why is emotional discipline important in Forex trading?";
+"answer13.1.1" = "a) To maximize potential profits";
+"answer13.1.2" = "b) To control the size of the trading position";
+"answer13.1.3" = "c) To close a trade automatically at a predefined loss level";
+"answer13.2.1" = "a) Leverage reduces potential losses";
+"answer13.2.2" = "b) Leverage is not a factor in Forex trading";
+"answer13.2.3" = "c) Leverage allows traders to control larger positions with less capital";
+"answer13.2.4" = "d)  Leverage eliminates the need for risk management";
+"answer13.3.1" = "a) Emotional discipline is not relevant to Forex trading";
+"answer13.3.2" = "b) Emotions have no impact on trading decisions";
+"answer13.3.3" = "c) Emotional discipline helps traders make informed and rational decisions";
+
+"question14.1" = "What is the significance of compound interest in retirement planning?";
+"question14.2" = "How can diversifying investments help in retirement planning?";
+"question14.3" = "Why is setting retirement goals important?";
+"answer14.1.1" = "a) Compound interest refers to the interest you earn from only your initial investment.";
+"answer14.1.2" = "b) Compound interest has no impact on retirement savings.";
+"answer14.1.3" = "c) Compound interest allows your investments to grow exponentially over time.";
+"answer14.2.1" = "a) Diversifying investments is unnecessary for retirement planning";
+"answer14.2.2" = "b) Diversifying investments can lead to higher taxes in retirement";
+"answer14.2.3" = "c) Diversifying investments helps mitigate risks and maximize returns";
+"answer14.3.1" = "a) Retirement goals are irrelevant as they change over time.";
+"answer14.3.2" = "b) Retirement goals are solely focused on the desired lifestyle";
+"answer14.3.3" = "c) Retirement goals help determine future expenses and savings needs";
+"answer14.3.4" = "d) Retirement goals are only necessary for those close to retirement age";
+
+"question15.1" = "What is the primary goal of generating passive income?";
+"question15.2" = "Which of the following is NOT discussed as a potential source of passive income?";
+"question15.3" = "Why is diversification important when building a portfolio of income streams?";
+"answer15.1.1" = "a) To work long hours";
+"answer15.1.2" = "b) To secure financial independence";
+"answer15.1.3" = "c) To retire early";
+"answer15.1.4" = "d) To rely solely on active income";
+"answer15.2.1" = "a) Real Estate Investment";
+"answer15.2.2" = "b) Dividend Stocks";
+"answer15.2.3" = "c) Full-time Employment";
+"answer15.2.4" = "d) Online Business";
+"answer15.3.1" = "a) It guarantees high returns";
+"answer15.3.2" = "b) It reduces the need for financial planning";
+"answer15.3.3" = "c) It helps mitigate risks";
+"answer15.3.4" = "d) It requires minimal effort";
+
+"question16.1" = "What is the primary benefit of achieving financial independence in old age?";
+"question16.2" = "What are some foundational steps in achieving financial freedom?";
+"question16.3" = "How do investments contribute to financial independence?";
+"answer16.1.1" = "a) Ability to work multiple jobs";
+"answer16.1.2" = "b) Flexibility to make choices without financial constraints";
+"answer16.1.3" = "c) Unlimited travel opportunities";
+"answer16.1.4" = "d) Pursuit of extravagant spending";
+"answer16.2.1" = "a) Accumulating debt";
+"answer16.2.2" = "b) Avoiding budgeting and saving";
+"answer16.2.3" = "c) Reducing expenses and avoiding unnecessary spending";
+"answer16.2.4" = "d) Ignoring investments";
+"answer16.3.1" = "a) They lead to excessive debt";
+"answer16.3.2" = "b) They guarantee immediate wealth";
+"answer16.3.3" = "c) They provide steady returns and income";
+"answer16.3.4" = "d) They require constant monitoring";
+
+"title11" = "Understanding Forex Trading Basics";
+"title12" = "Analyzing Currency Pairs for Trading";
+"title13" = "Executing Forex Trades and Risk Management";
+"title14" = "Planning for a Secure Retirement";
+"title15" = "Generating Passive Income After 40";
+"title16" = "Financial Freedom in Your Golden Years";
+
+"topic22" = "Forex - buy and sell currencies";
+"topic33" = "Carefree old age or income after the age of 40";
+
+"Result" = "Result";

@@ -1,0 +1,377 @@
+"title1" = "Forex Ticaretine Giriş";
+"title2" = "Forex Ticaretinde Teknik Analizin Temelleri";
+"title3" = "Forex Ticaretinde Temel Analiz";
+"title4" = "Risk Management in Forex Trading";
+"title5" = "Forex ticaretinde ölçeklendirmenin ana amacı nedir?";
+"title6" = "Bir Forex Ticaret Stratejisi Geliştirmek";
+"title7" = "Ticaret Psikolojisi ve Duygular";
+"title8" = "Ticaret Araçları ve Platformları";
+"title9" = "Bir Forex Brokeri Seçmek";
+"title10" = "Gelişmiş Forex Ticaret Stratejileri";
+
+"My courses" = "Kurslarım";
+"Read the lesson" = "Dersi oku";
+"Lesson" = "Ders";
+"Lesson 2" = "Ders 2";
+"Lesson 3" = "Ders 3";
+"Lesson 4" = "Ders 4";
+"Lesson 5" = "Ders 5";
+"Lesson 6" = "Ders 6";
+"Lesson 7" = "Ders 7";
+"Lesson 8" = "Ders 8";
+"Lesson 9" = "Ders 9";
+"Lesson 10" = "Ders 10";
+
+"time1.1" = "Forex piyasasını anlamak";
+"time1.2" = "Forex ticareti nasıl çalışır?";
+"time1.3" = "Forex piyasasındaki kilit katılımcılar ve rolleri";
+"time1.4" = "Popüler döviz çiftleri ve özellikleri";
+
+"time2.1" = "Teknik analize giriş";
+"time2.2" = "Teknik analizin temel araçları: çizelgeler, göstergeler vb.";
+"time2.3" = "Eğilimleri ve grafik modellerini belirleme";
+"time2.4" = "Alım satım kararları vermek için teknik analiz kullanmak";
+
+"time3.1" = "Temel analize giriş";
+"time3.2" = "Forex piyasalarını etkileyen temel ekonomik göstergeler";
+"time3.3" = "Ekonomik verilerin ve haber olaylarının analizi";
+"time3.4" = "Ticarette temel ve teknik analizi birleştirmek";
+
+"time4.1" = "Forex ticaretinde risk yönetiminin önemi";
+"time4.2" = "Zararı durdur ve kar al seviyelerini ayarlama";
+"time4.3" = "Pozisyon büyüklüklerinin risk toleransına göre belirlenmesi";
+"time4.4" = "Yaygın risk yönetimi hatalarından kaçınma";
+
+"time5.1" = "Çeşitli ticaret stillerine genel bakış: ölçeklendirme, günlük ticaret, hızlı ticaret vb.";
+"time5.2" = "Kişiliğiniz ve programınız için en iyi ticaret stilini belirleme";
+"time5.3" = "Her ticaret stilinin avantajları ve dezavantajları";
+"time5.4" = "Farklı ticaret stillerinin başarılı bir şekilde uygulanması için ipuçları";
+
+"time6.1" = "Sağlam bir ticaret planı oluşturmak";
+"time6.2" = "Ticaret amaçlarını ve hedeflerini belirleme";
+"time6.3" = "Giriş ve çıkış kurallarının tanımlanması";
+"time6.4" = "Ticaret stratejinizi test etme ve optimize etme";
+
+"time7.1" = "Duyguların alım satım kararları üzerindeki etkisini anlamak";
+"time7.2" = "Forex yatırımcılarını etkileyen yaygın psikolojik önyargılar";
+"time7.3" = "Duyguları yönetme ve disiplinli kalma teknikleri";
+"time7.4" = "Güçlü bir ticaret zihniyeti geliştirmek";
+
+"time8.1" = "Forex için popüler ticaret platformlarına genel bakış";
+"time8.2" = "Temel ticaret araçları ve kaynakları";
+"time8.3" = "Daha iyi verimlilik için ticaret platformunuzu özelleştirme";
+"time8.4" = "Gelişmiş ticaret özelliklerini ve seçeneklerini keşfetme";
+
+"time9.1" = "Bir Forex brokeri seçerken dikkate alınması gereken faktörler";
+"time9.2" = "Broker düzenlemelerini ve güvenilirliğini değerlendirme";
+"time9.3" = "Hesap türleri, spreadler ve ücretler";
+"time9.4" = "Alım satım ihtiyaçlarınız için doğru brokeri bulmak için ipuçları";
+
+"time10.1" = "Gelişmiş ticaret tekniklerini keşfetme: riskten korunma, taşıma ticareti vb.";
+"time10.2" = "Gelişmiş teknik göstergeler ve modellerin uygulanması";
+"time10.3" = "Makroekonomik analizi ticaret stratejilerinize dahil etmek";
+"time10.4" = "Sofistike ticaret yöntemleriyle riske göre ayarlanmış getirileri artırma";
+
+"1 min" = "1 dakika";
+"desc1" = "bu ders öğrenmenize yardımcı olacak";
+"test1.1" = "Ben onu çoktan biliyorum! Teste git!";
+"test1.2" = "Bilginizi kontrol edelim, ya bir şeyi kaçırdıysanız?";
+"Take the test" = "Testi çöz";
+
+"That's great!" = "Bu harika!";
+"result.description" = "Dürüst olmak gerekirse, bu kadar iyi olmanı beklemiyorduk. Bir tüccar olarak parlak bir kariyere sahip olacağınızdan eminiz. Bu arada, aşağıdaki dersi çalışmamız gerekiyor.";
+"correct" = "doğru";
+"Next" = "Sonraki";
+
+"Quiz" = "Bilgi yarışması";
+"question1.1" = "Forex ticareti nedir?";
+"question1.2" = "Forex ticareti nasıl çalışır?";
+"question1.3" = "Who are the key participants in the Forex market?";
+"answer1.1.1" = "a) Hisse senedi alım satımı";
+"answer1.1.2" = "b) Döviz alım satımı";
+"answer1.1.3" = "c) Gayrimenkul alım satımı";
+"answer1.2.1" = "a) Aynı para birimini alıp satarak";
+"answer1.2.2" = "b) Aynı anda bir para birimi alıp başka bir para birimini satarak";
+"answer1.2.3" = "c) Mal alıp satarak";
+"answer1.3.1" = "a) Yalnızca perakende tüccarlar";
+"answer1.3.2" = "b) Merkez bankaları, ticari bankalar, finans kurumları ve perakende tüccarlar";
+"answer1.3.3" = "c) Sadece çok uluslu şirketler";
+
+"question2.1" = "Forex ticaretinde teknik analizin ana odak noktası nedir?";
+"question2.2" = "Teknik analizde kullanılan bazı temel araçlar nelerdir?";
+"question2.3" = "Teknik analiz, yatırımcılara Forex ticaretinde nasıl yardımcı olabilir?";
+"answer2.1.1" = "a) Ekonomik göstergeler ve jeopolitik olaylar";
+"answer2.1.2" = "b) Tarihsel fiyat verileri ve piyasa modelleri";
+"answer2.1.3" = "c) Temel analiz";
+"answer2.2.1" = "a) Ekonomik takvimler ve haber etkinlikleri";
+"answer2.2.2" = "b) Grafikler, göstergeler ve trend çizgileri";
+"answer2.2.3" = "c) Faiz oranları ve enflasyon verileri";
+"answer2.3.1" = "a) Ekonomik göstergeleri tahmin ederek";
+"answer2.3.2" = "b) İşlemler için giriş ve çıkış noktaları belirleyerek";
+"answer2.3.3" = "c) Jeopolitik olayları analiz ederek";
+
+"question3.1" = "Forex ticaretinde temel analizin asıl amacı nedir?";
+"question3.2" = "Aşağıdakilerden hangisi Forex piyasalarını etkileyen temel ekonomik göstergelerden biri DEĞİLDİR?";
+"question3.3" = "Yatırımcılar Forex ticaretinde temel ve teknik analizi nasıl birlikte kullanır?";
+"answer3.1.1" = "a) Geçmiş fiyat verilerini analiz etmek için";
+"answer3.1.2" = "b) Ekonomik, finansal ve jeopolitik faktörleri değerlendirmek";
+"answer3.1.3" = "c) Kısa vadeli ticaret için grafik modellerini belirlemek için";
+"answer3.2.1" = "a) Gayri Safi Yurtiçi Hasıla (GSYİH)";
+"answer3.2.2" = "b) Enflasyon oranları";
+"answer3.2.3" = "c) Borsa performansı";
+"answer3.3.1" = "a) Uzun vadeli trendler için temel analiz kullanılırken, kısa vadeli ticaret kararları için teknik analiz kullanılır.";
+"answer3.3.2" = "b) Yatırımcılar ya temel analiz ya da teknik analiz kullanırlar, ikisini birden değil.";
+"answer3.3.3" = "c) Temel analiz, yalnızca ekonomik veri yayınlarını analiz etmek için kullanılır.";
+
+"question4.1" = "Forex ticaretinde risk yönetiminin amacı nedir?";
+"question4.2" = "Stop-loss seviyesi nedir?";
+"question4.3" = "Tüccarlar, risk toleransına dayalı olarak pozisyon boyutlarını nasıl belirleyebilir?";
+"answer4.1.1" = "a) Kârı en üst düzeye çıkarmak için";
+"answer4.1.2" = "b) Sermayeyi korumak ve potansiyel kayıpları en aza indirmek için";
+"answer4.2.1" = "a) Bir işlemin açıldığı seviye";
+"answer4.2.2" = "b) Belirli bir fiyat seviyesinde bir işlemi otomatik olarak kapatmak için verilen emir";
+"answer4.3.1" = "a) Kâr alma seviyesine göre uygun pozisyon büyüklüğünü hesaplayarak";
+"answer4.3.2" = "b) Stop-loss seviyesi ve istenen risk yüzdesine göre uygun pozisyon büyüklüğünü hesaplayarak (Doğru cevap)";
+
+"question5.1" = "Forex ticaretinde ölçeklendirmenin ana amacı nedir?";
+"question5.2" = "Hangi alım satım tarzı pozisyonları birkaç hafta hatta aylarca tutmayı içerir?";
+"question5.3" = "Pozisyon ticaretinin birincil odak noktası nedir?";
+"answer5.1.1" = "a) Pozisyonları birkaç gün veya hafta tutmak için";
+"answer5.1.2" = "b) Saniyeler veya dakikalar içinde işlemlere girip çıkarak hızlı kar elde etmek";
+"answer5.1.3" = "c) Kısa vadeli fiyat dalgalanmalarından yararlanmak için";
+"answer5.2.1" = "a) Soyma";
+"answer5.2.2" = "b) Günlük ticaret";
+"answer5.2.3" = "c) Salıncak ticareti";
+"answer5.3.1" = "a) Kısa vadeli fiyat hareketlerinden hızlı kar elde etme";
+"answer5.3.2" = "b) Birkaç hafta veya ay boyunca pozisyon tutma";
+"answer5.3.3" = "c) İşlemleri otomatik olarak yürütmek için bilgisayar algoritmalarını kullanma";
+
+"question6.1" = "Forex'te bir ticaret planına sahip olmanın önemi nedir?";
+"question6.2" = "Net ticaret hedefleri belirlemek neden önemlidir?";
+"question6.3" = "Bir ticaret stratejisini test etmenin ve optimize etmenin amacı nedir?";
+"answer6.1.1" = "a) Gerçekçi olmayan ticaret hedefleri belirlemeye yardımcı olur";
+"answer6.1.2" = "b) Başarılı ticaret için bir yol haritası sağlar";
+"answer6.1.3" = "c) Tutarlı karları garanti eder";
+"answer6.2.1" = "a) Rastgele kar elde etmeye yardımcı olur";
+"answer6.2.2" = "b) İlerlemeyi ve başarıyı ölçmeye yardımcı olur";
+"answer6.2.3" = "c) Dürtüsel ticaret kararlarına yol açar";
+"answer6.3.1" = "a) Geçmiş verileri geriye dönük olarak test etmekten kaçınmak için";
+"answer6.3.2" = "b) Stratejinin performansını iyileştirmek ve iyileştirmek için";
+"answer6.3.3" = "c) Stratejiyi canlı ticarette hemen uygulamak için";
+
+"question7.1" = "Forex yatırımcılarını etkileyebilecek yaygın bir psikolojik önyargı nedir?";
+"question7.2" = "Tüccarlar, alım satım sırasında duyguları etkili bir şekilde nasıl yönetebilir?";
+"question7.3" = "Güçlü bir ticaret zihniyeti geliştirmenin önemi nedir?";
+"answer7.1.1" = "a) Kaybetme Korkusu (FOMO)";
+"answer7.1.2" = "b) Kaybetme Korkusu (FOL)";
+"answer7.1.3" = "c) Hem a) hem de b)";
+"answer7.2.1" = "a) Risk yönetimi ilkelerini göz ardı ederek";
+"answer7.2.2" = "b) Zararı durdur ve kar al seviyelerini önceden belirleyerek";
+"answer7.2.3" = "c) Aceleci alım satım kararları vererek";
+"answer7.3.1" = "a) Hızlı kazanç peşinde koşmak";
+"answer7.3.2" = "b) Ticaretin bir parçası olarak kayıpları kabul etmek";
+"answer7.3.3" = "c) Dürtüsel ticaret kararları vermek için";
+
+"question8.1" = "Forex yatırımcıları tarafından yaygın olarak kullanılan ticaret platformu hangisidir?";
+"question8.2" = "Bazı temel ticaret araçları nelerdir?";
+"question8.3" = "Modern ticaret platformları ne gibi avantajlar sunuyor?";
+"answer8.1.1" = "a) MetaTrader 4";
+"answer8.1.2" = "b) MetaTrader 5";
+"answer8.1.3" = "c) NinjaTrader";
+"answer8.2.1" = "a) Sosyal medya platformları";
+"answer8.2.2" = "b) Ekonomik takvimler";
+"answer8.2.3" = "c) Yemek tarifleri";
+"answer8.3.1" = "a) Özelleştirememe";
+"answer8.3.2" = "b) Sınırlı ticaret özellikleri";
+"answer8.3.3" = "c) Özelleştirme seçenekleri";
+
+"question9.1" = "Bir Forex brokeri seçerken dikkate alınması gereken en önemli faktör nedir?";
+"question9.2" = "Rekabetçi marjlara sahip bir komisyoncu seçmek neden önemlidir?";
+"question9.3" = "Bir komisyoncunun ticaret platformunu değerlendirirken nelere dikkat etmelisiniz?";
+"answer9.1.1" = "a) Hesap türleri";
+"answer9.1.2" = "b) Düzenleme ve güvenilirlik";
+"answer9.1.3" = "c) Müşteri desteği";
+"answer9.1.4" = "d) Eğitim kaynakları";
+"answer9.2.1" = "a) Daha uygun maliyetli ticarete izin verir";
+"answer9.2.2" = "b) Daha iyi müşteri desteği sağlar";
+"answer9.2.3" = "c) Kullanıcı dostu bir ticaret platformu sunar";
+"answer9.2.4" = "d) Eğitim kaynaklarını geliştirir";
+"answer9.3.1" = "a) Eğitim kaynakları";
+"answer9.3.2" = "b) Para yatırma ve çekme seçenekleri";
+"answer9.3.3" = "c) Ticaret araçları ve kaynakları";
+"answer9.3.4" = "d) Gerçek zamanlı fiyat teklifleri ve sipariş yürütme yetenekleri";
+
+"question10.1" = "Forex ticaretinde riskten korunmanın temel amacı nedir?";
+"question10.2" = "Taşıma ticareti neleri içerir?";
+"question10.3" = "Gelişmiş Forex ticaret stratejilerinde makroekonomik analizin rolü nedir?";
+"answer10.1.1" = "a) Kârı en üst düzeye çıkarmak için";
+"answer10.1.2" = "b) Olumsuz fiyat hareketlerinden korunmak için";
+"answer10.2.1" = "a) Düşükten alıp yüksekten satmak";
+"answer10.2.2" = "b) İki para birimi arasındaki faiz oranı farklılıklarından yararlanmak";
+"answer10.3.1" = "a) Pazara potansiyel giriş ve çıkış noktalarının belirlenmesi";
+"answer10.3.2" = "b) Para birimi değerlerini etkileyen ekonomik göstergeleri anlama";
+
+"Edit Profile" = "Profili Düzenle";
+"Edit" = "Düzenlemek";
+"Change Profile Photo" = "Profil Fotoğrafını Değiştir";
+"Nickname" = "Takma ad";
+"Description" = "Tanım";
+"Cancel" = "İptal etmek";
+"Done" = "Tamamlamak";
+
+"Newsline" = "Haber hattı";
+"New post" = "Yeni posta";
+"Write your news..." = "Haberini yaz...";
+
+"Settings" = "Ayarlar";
+"News" = "Haberler";
+"Courses" = "Dersler";
+"passed" = "Geçti";
+
+"We were unable to load your photos" = "Fotoğraflarınızı yükleyemedik";
+"You can enable access in Privacy Settings" = "Erişimi gizlilik ayarlarında ayarlayabilirsiniz";
+
+"onboarding.title0" = "Deneyiminizi geliştirin
+uygulamanın";
+"onboarding.content0" = 'Reklamların gösterilme sıklığını en aza indirmek için bir sonraki ekranda "İzlemeye İzin Ver"i seçin';
+"onboarding.nextButton0" = "Sonraki";
+
+"time11.1" = "Forex Ticaretine Giriş";
+"time11.2" = "Para Birimleri nedir?";
+"time11.3" = "Forex Piyasası Katılımcıları";
+"time11.4" = "Forex Ticareti Nasıl Çalışır?";
+"time11.5" = "Anahtar Forex Terminolojisi";
+"time11.6" = "Alış ve Satış Emirleri Nasıl Çalışır?";
+
+"time12.1" = "Döviz Çiftlerine Giriş";
+"time12.2" = "Temel Analiz";
+"time12.3" = "Teknik Analiz";
+"time12.4" = "Döviz Çiftleri Arasındaki Korelasyon";
+"time12.5" = "Ticaret Fırsatlarını Belirleme";
+
+"time13.1" = "Forex İşlemleri Yapmak";
+"time13.2" = "Forex Ticaretinde Risk Yönetimi";
+"time13.3" = "Kaldıraç ve Marj";
+"time13.4" = "Duygusal disiplin";
+"time13.5" = "İşlemleri İzleme ve Çıkma";
+"time13.6" = "Çözüm";
+
+"time14.1" = "Erken Başlayın: Bileşik Faizin Gücü";
+"time14.2" = "Emeklilik Hesapları ve Yatırımlar";
+"time14.3" = "Emeklilik Planları ve Sosyal Güvenlik";
+"time14.4" = "Emeklilik Hedefleri Belirleme";
+"time14.5" = "Emeklilik Tasarruf Stratejilerini Kucaklamak";
+"time14.6" = "Çözüm";
+
+"time15.1" = "Gayrimenkul Yatırım";
+"time15.2" = "Temettü Hisseleri ve Yatırımlar";
+"time15.3" = "Çevrimiçi İşletme Oluşturma";
+"time15.4" = "Eşler Arası Borç Verme ve Kitle Fonlaması";
+"time15.5" = "Gelir Akışları Portföyü Oluşturma";
+"time15.6" = "Çözüm";
+
+"time16.1" = "Finansal Bağımsızlığın Önemi";
+"time16.2" = "Finansal Bağımsızlığa Ulaşma Stratejileri";
+"time16.3" = "Yatırımların ve Gelirin Rolü";
+"time16.4" = "Uzun Vadeli Tasarruflar İçin Yaşam Tarzı Düzenlemeleri";
+"time16.5" = "Eski Planlama ve Emlak Yönetimi";
+"time16.6" = "Çözüm";
+"2 min" = "2 dakika";
+
+"question11.1" = "Forex ticaretinin birincil amacı nedir?";
+"question11.2" = "Forex piyasasındaki döviz çiftleri nelerdir??";
+"question11.3" = "Forex piyasasının katılımcıları kimlerdir?";
+"answer11.1.1" = "a) Nadir ve değerli para birimlerini toplamak";
+"answer11.1.2" = "b) Döviz fiyatlarındaki dalgalanmalardan kar elde etmek.";
+"answer11.1.3" = "c) Sınır ötesi turizmi teşvik etmek";
+"answer11.2.1" = "a) İki farklı dilin kombinasyonları";
+"answer11.2.2" = "b) İki farklı ülkenin kombinasyonları";
+"answer11.2.3" = "c) Ticaret için iki farklı para biriminin kombinasyonları";
+"answer11.3.1" = "a) Yalnızca bireysel tüccarlar ve merkez bankaları";
+"answer11.3.2" = "b) Sadece çok uluslu şirketler";
+"answer11.3.3" = "c) Perakende tüccarlar, kurumsal yatırımcılar ve merkez bankaları dahil olmak üzere çeşitli kuruluşlar";
+
+"question12.1" = "Forex ticaretindeki üç döviz çifti kategorisi nelerdir?";
+"question12.2" = "Hangi analiz türü ekonomik göstergelerin, siyasi olayların ve merkez bankası politikalarının değerlendirilmesini içerir?";
+"question12.3" = "İki döviz çifti arasındaki pozitif korelasyon ne anlama geliyor?";
+"answer12.1.1" = "a) Büyük, orta, egzotik";
+"answer12.1.2" = "b) Majör, minör, egzotik";
+"answer12.1.3" = "c) Birincil, ikincil, egzotik";
+"answer12.2.1" = "a) Teknik analiz";
+"answer12.2.2" = "b) Duygu analizi";
+"answer12.2.3" = "c) Temel analiz";
+"answer12.3.1" = "a) Herhangi bir ilişkileri yoktur.";
+"answer12.3.2" = "b) Zıt yönlerde hareket ederler";
+"answer12.3.3" = "c) Aynı yönde hareket ederler.";
+
+"question13.1" = "Forex ticaretinde bir zararı durdur emri belirlemenin amacı nedir?";
+"question13.2" = "Forex ticaretinde kaldıracın önemi nedir?";
+"question13.3" = "Forex ticaretinde duygusal disiplin neden önemlidir?";
+"answer13.1.1" = "a) Potansiyel karı maksimize etmek";
+"answer13.1.2" = "b) Alım satım pozisyonunun büyüklüğünü kontrol etmek";
+"answer13.1.3" = "c) Bir işlemi önceden tanımlanmış bir kayıp seviyesinde otomatik olarak kapatmak";
+"answer13.2.1" = "a) Kaldıraç potansiyel kayıpları azaltır";
+"answer13.2.2" = "b) Kaldıraç, Forex ticaretinde bir faktör değildir";
+"answer13.2.3" = "c) Kaldıraç, tacirlerin daha az sermaye ile daha büyük pozisyonları kontrol etmelerini sağlar";
+"answer13.2.4" = "d) Kaldıraç, risk yönetimi ihtiyacını ortadan kaldırır";
+"answer13.3.1" = "a) Duygusal disiplin Forex ticareti ile ilgili değildir";
+"answer13.3.2" = "b) Duyguların ticaret kararları üzerinde hiçbir etkisi yoktur";
+"answer13.3.3" = "c) Duygusal disiplin, tüccarların bilinçli ve rasyonel kararlar almasına yardımcı olur";
+
+"question14.1" = "Emeklilik planlamasında bileşik faizin önemi nedir?";
+"question14.2" = "Yatırımları çeşitlendirmek emeklilik planlamasına nasıl yardımcı olabilir?";
+"question14.3" = "Emeklilik hedefleri belirlemek neden önemlidir?";
+"answer14.1.1" = "a) Bileşik faiz, yalnızca ilk yatırımınızdan kazandığınız faizi ifade eder.";
+"answer14.1.2" = "b) Bileşik faizin emeklilik tasarrufları üzerinde etkisi yoktur.";
+"answer14.1.3" = "c) Bileşik faiz, yatırımlarınızın zaman içinde katlanarak büyümesini sağlar.";
+"answer14.2.1" = "a) Emeklilik planlaması için yatırımları çeşitlendirmek gereksizdir";
+"answer14.2.2" = "b) Yatırımları çeşitlendirmek emeklilikte daha yüksek vergilere yol açabilir";
+"answer14.2.3" = "c) Yatırımları çeşitlendirmek, riskleri azaltmaya ve getirileri en üst düzeye çıkarmaya yardımcı olur";
+"answer14.3.1" = "a) Emeklilik hedefleri zamanla değiştikleri için ilgisizdir.";
+"answer14.3.2" = "b) Emeklilik hedefleri yalnızca istenen yaşam tarzına odaklanır.";
+"answer14.3.3" = "c) Emeklilik hedefleri, gelecekteki harcamaların ve tasarruf ihtiyaçlarının belirlenmesine yardımcı olur";
+"answer14.3.4" = "d) Emeklilik hedefleri sadece emeklilik yaşına yakın olanlar için gereklidir.";
+
+"question15.1" = "Pasif gelir elde etmenin birincil amacı nedir?";
+"question15.2" = "Aşağıdakilerden hangisi potansiyel bir pasif gelir kaynağı olarak tartışılmaz?";
+"question15.3" = "Bir gelir akışı portföyü oluştururken çeşitlendirme neden önemlidir?";
+"answer15.1.1" = "a) Uzun saatler çalışmak";
+"answer15.1.2" = "b) Mali bağımsızlığı sağlamak";
+"answer15.1.3" = "c) Erken emekli olmak";
+"answer15.1.4" = "d) Yalnızca aktif gelire güvenmek";
+"answer15.2.1" = "a) Gayrimenkul Yatırımı";
+"answer15.2.2" = "b) Temettü Hisseleri";
+"answer15.2.3" = "c) Tam zamanlı İstihdam";
+"answer15.2.4" = "d) Çevrimiçi İş";
+"answer15.3.1" = "a) Yüksek getiri garanti eder";
+"answer15.3.2" = "b) Finansal planlama ihtiyacını azaltır.";
+"answer15.3.3" = "c) Risklerin azaltılmasına yardımcı olur";
+"answer15.3.4" = "d) Minimum çaba gerektirir";
+
+"question16.1" = "Yaşlılıkta finansal bağımsızlığa ulaşmanın birincil faydası nedir?";
+"question16.2" = "Finansal özgürlüğe ulaşmak için bazı temel adımlar nelerdir?";
+"question16.3" = "Yatırımlar finansal bağımsızlığa nasıl katkıda bulunur?";
+"answer16.1.1" = "a) Birden fazla işte çalışabilme";
+"answer16.1.2" = "b) Finansal kısıtlamalar olmadan seçim yapma esnekliği";
+"answer16.1.3" = "c) Sınırsız seyahat imkanı";
+"answer16.1.4" = "d) Savurgan harcama peşinde koşmak";
+"answer16.2.1" = "a) Birikmiş borç";
+"answer16.2.2" = "b) Bütçe yapmaktan ve tasarruf etmekten kaçınmak";
+"answer16.2.3" = "c) Harcamaları azaltmak ve gereksiz harcamalardan kaçınmak";
+"answer16.2.4" = "d) Yatırımları göz ardı etmek";
+"answer16.3.1" = "a) Aşırı borca yol açarlar";
+"answer16.3.2" = "b) Anında zenginliği garanti ederler";
+"answer16.3.3" = "c) İstikrarlı getiri ve gelir sağlarlar.";
+"answer16.3.4" = "d) Sürekli izleme gerektirirler";
+
+"title11" = "Forex Ticaretinin Temellerini Anlamak";
+"title12" = "Ticaret için Döviz Çiftlerini Analiz Etme";
+"title13" = "Forex İşlemlerini Yürütme ve Risk Yönetimi";
+"title14" = "Güvenli Bir Emeklilik İçin Planlama";
+"title15" = "40 Yaşından Sonra Pasif Gelir Elde Etmek";
+"title16" = "Altın Yıllarınızda Finansal Özgürlük";
+
+"topic22" = "Forex - para birimlerini al ve sat";
+"topic33" = "Kaygısız yaşlılık veya 40 yaşından sonra gelir";
+
+"Result" = "Sonuç";
