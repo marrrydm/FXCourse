@@ -25,14 +25,44 @@
 		F81C864C2A7D5ABB00D16699 /* LessonModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F81C864B2A7D5ABB00D16699 /* LessonModel.swift */; };
 		F81C86502A7D826300D16699 /* QuizModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F81C864F2A7D826300D16699 /* QuizModel.swift */; };
 		F81E64A82A7FD2DB0028A838 /* TabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F81E64A72A7FD2DB0028A838 /* TabBarController.swift */; };
-		F8442DA72A9379E700A80BE7 /* OnboardingController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8442DA62A9379E700A80BE7 /* OnboardingController.swift */; };
+		F8463E802A97760D00FD6D26 /* LoadViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8463E7F2A97760D00FD6D26 /* LoadViewController.swift */; };
+		F8463E822A97761F00FD6D26 /* OnboardingController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8463E812A97761F00FD6D26 /* OnboardingController.swift */; };
+		F8463E842A97762A00FD6D26 /* OnboardingControllerSecond.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8463E832A97762A00FD6D26 /* OnboardingControllerSecond.swift */; };
+		F8463E862A97763200FD6D26 /* OnboardingControllerLast.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8463E852A97763200FD6D26 /* OnboardingControllerLast.swift */; };
+		F8A522192A97CD3B00C6DB07 /* OneSignal in Frameworks */ = {isa = PBXBuildFile; productRef = F8A522182A97CD3B00C6DB07 /* OneSignal */; };
+		F8A5221B2A97CD3B00C6DB07 /* OneSignalExtension in Frameworks */ = {isa = PBXBuildFile; productRef = F8A5221A2A97CD3B00C6DB07 /* OneSignalExtension */; };
+		F8A522232A97CDFF00C6DB07 /* NotificationService.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8A522222A97CDFF00C6DB07 /* NotificationService.swift */; };
+		F8A522272A97CDFF00C6DB07 /* OneSignalNotificationServiceExtension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = F8A522202A97CDFF00C6DB07 /* OneSignalNotificationServiceExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		F8EB545B2A8274F9003DB4D4 /* Photo.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8EB545A2A8274F9003DB4D4 /* Photo.swift */; };
 		F8FD30E42A7A3F60005A8EC3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8FD30E32A7A3F60005A8EC3 /* AppDelegate.swift */; };
 		F8FD30E62A7A3F60005A8EC3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8FD30E52A7A3F60005A8EC3 /* SceneDelegate.swift */; };
-		F8FD30E82A7A3F60005A8EC3 /* LoadViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8FD30E72A7A3F60005A8EC3 /* LoadViewController.swift */; };
 		F8FD30ED2A7A3F61005A8EC3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F8FD30EC2A7A3F61005A8EC3 /* Assets.xcassets */; };
 		F8FD30F02A7A3F61005A8EC3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F8FD30EE2A7A3F61005A8EC3 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		F8A522252A97CDFF00C6DB07 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F8FD30D82A7A3F5F005A8EC3 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F8A5221F2A97CDFF00C6DB07;
+			remoteInfo = OneSignalNotificationServiceExtension;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		F8A5222B2A97CDFF00C6DB07 /* Embed Foundation Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				F8A522272A97CDFF00C6DB07 /* OneSignalNotificationServiceExtension.appex in Embed Foundation Extensions */,
+			);
+			name = "Embed Foundation Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
 		246327087F61F40EE07ECA44 /* Pods_ForexCourse.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ForexCourse.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -55,25 +85,39 @@
 		F81C864B2A7D5ABB00D16699 /* LessonModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LessonModel.swift; sourceTree = "<group>"; };
 		F81C864F2A7D826300D16699 /* QuizModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizModel.swift; sourceTree = "<group>"; };
 		F81E64A72A7FD2DB0028A838 /* TabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarController.swift; sourceTree = "<group>"; };
-		F8442DA62A9379E700A80BE7 /* OnboardingController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingController.swift; sourceTree = "<group>"; };
+		F8463E7F2A97760D00FD6D26 /* LoadViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadViewController.swift; sourceTree = "<group>"; };
+		F8463E812A97761F00FD6D26 /* OnboardingController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingController.swift; sourceTree = "<group>"; };
+		F8463E832A97762A00FD6D26 /* OnboardingControllerSecond.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingControllerSecond.swift; sourceTree = "<group>"; };
+		F8463E852A97763200FD6D26 /* OnboardingControllerLast.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingControllerLast.swift; sourceTree = "<group>"; };
+		F8A522202A97CDFF00C6DB07 /* OneSignalNotificationServiceExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = OneSignalNotificationServiceExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		F8A522222A97CDFF00C6DB07 /* NotificationService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationService.swift; sourceTree = "<group>"; };
+		F8A522242A97CDFF00C6DB07 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F8EB54582A82725F003DB4D4 /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
 		F8EB54592A82725F003DB4D4 /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/Localizable.strings; sourceTree = "<group>"; };
 		F8EB545A2A8274F9003DB4D4 /* Photo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Photo.swift; sourceTree = "<group>"; };
 		F8FD30E02A7A3F60005A8EC3 /* ForexCourse.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ForexCourse.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F8FD30E32A7A3F60005A8EC3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F8FD30E52A7A3F60005A8EC3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		F8FD30E72A7A3F60005A8EC3 /* LoadViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadViewController.swift; sourceTree = "<group>"; };
 		F8FD30EC2A7A3F61005A8EC3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F8FD30EF2A7A3F61005A8EC3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F8FD30F12A7A3F61005A8EC3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		F8A5221D2A97CDFF00C6DB07 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		F8FD30DD2A7A3F60005A8EC3 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				675C0DB89F0AB3539F58C317 /* Pods_ForexCourse.framework in Frameworks */,
+				F8A5221B2A97CD3B00C6DB07 /* OneSignalExtension in Frameworks */,
+				F8A522192A97CD3B00C6DB07 /* OneSignal in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -157,6 +201,26 @@
 			path = LessonModule;
 			sourceTree = "<group>";
 		};
+		F8463E7E2A97760200FD6D26 /* Onboarding */ = {
+			isa = PBXGroup;
+			children = (
+				F8463E7F2A97760D00FD6D26 /* LoadViewController.swift */,
+				F8463E812A97761F00FD6D26 /* OnboardingController.swift */,
+				F8463E832A97762A00FD6D26 /* OnboardingControllerSecond.swift */,
+				F8463E852A97763200FD6D26 /* OnboardingControllerLast.swift */,
+			);
+			path = Onboarding;
+			sourceTree = "<group>";
+		};
+		F8A522212A97CDFF00C6DB07 /* OneSignalNotificationServiceExtension */ = {
+			isa = PBXGroup;
+			children = (
+				F8A522222A97CDFF00C6DB07 /* NotificationService.swift */,
+				F8A522242A97CDFF00C6DB07 /* Info.plist */,
+			);
+			path = OneSignalNotificationServiceExtension;
+			sourceTree = "<group>";
+		};
 		F8C491532A7D9C3A00EE9517 /* QuizModule */ = {
 			isa = PBXGroup;
 			children = (
@@ -170,6 +234,7 @@
 			isa = PBXGroup;
 			children = (
 				F8FD30E22A7A3F60005A8EC3 /* ForexCourse */,
+				F8A522212A97CDFF00C6DB07 /* OneSignalNotificationServiceExtension */,
 				F8FD30E12A7A3F60005A8EC3 /* Products */,
 				5E3B58F0F4BD439ABB4FA81D /* Pods */,
 				334F2AA7C237840D0E9B8A9C /* Frameworks */,
@@ -180,6 +245,7 @@
 			isa = PBXGroup;
 			children = (
 				F8FD30E02A7A3F60005A8EC3 /* ForexCourse.app */,
+				F8A522202A97CDFF00C6DB07 /* OneSignalNotificationServiceExtension.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -187,14 +253,13 @@
 		F8FD30E22A7A3F60005A8EC3 /* ForexCourse */ = {
 			isa = PBXGroup;
 			children = (
+				F8463E7E2A97760200FD6D26 /* Onboarding */,
 				F81349C72A7E90FF0075762A /* Settings */,
 				F81349C62A7E90EF0075762A /* News */,
 				F81C86392A7D075600D16699 /* Support */,
 				F81C86342A7D04E200D16699 /* Courses */,
 				F8FD30E32A7A3F60005A8EC3 /* AppDelegate.swift */,
 				F8FD30E52A7A3F60005A8EC3 /* SceneDelegate.swift */,
-				F8FD30E72A7A3F60005A8EC3 /* LoadViewController.swift */,
-				F8442DA62A9379E700A80BE7 /* OnboardingController.swift */,
 				F8FD30EC2A7A3F61005A8EC3 /* Assets.xcassets */,
 				F8FD30EE2A7A3F61005A8EC3 /* LaunchScreen.storyboard */,
 				F8FD30F12A7A3F61005A8EC3 /* Info.plist */,
@@ -206,6 +271,23 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+		F8A5221F2A97CDFF00C6DB07 /* OneSignalNotificationServiceExtension */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F8A522282A97CDFF00C6DB07 /* Build configuration list for PBXNativeTarget "OneSignalNotificationServiceExtension" */;
+			buildPhases = (
+				F8A5221C2A97CDFF00C6DB07 /* Sources */,
+				F8A5221D2A97CDFF00C6DB07 /* Frameworks */,
+				F8A5221E2A97CDFF00C6DB07 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = OneSignalNotificationServiceExtension;
+			productName = OneSignalNotificationServiceExtension;
+			productReference = F8A522202A97CDFF00C6DB07 /* OneSignalNotificationServiceExtension.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
 		F8FD30DF2A7A3F60005A8EC3 /* ForexCourse */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = F8FD30F42A7A3F61005A8EC3 /* Build configuration list for PBXNativeTarget "ForexCourse" */;
@@ -215,12 +297,18 @@
 				F8FD30DD2A7A3F60005A8EC3 /* Frameworks */,
 				F8FD30DE2A7A3F60005A8EC3 /* Resources */,
 				022DCB7FCA12EEDE315CA453 /* [CP] Embed Pods Frameworks */,
+				F8A5222B2A97CDFF00C6DB07 /* Embed Foundation Extensions */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				F8A522262A97CDFF00C6DB07 /* PBXTargetDependency */,
 			);
 			name = ForexCourse;
+			packageProductDependencies = (
+				F8A522182A97CD3B00C6DB07 /* OneSignal */,
+				F8A5221A2A97CD3B00C6DB07 /* OneSignalExtension */,
+			);
 			productName = ForexCourse;
 			productReference = F8FD30E02A7A3F60005A8EC3 /* ForexCourse.app */;
 			productType = "com.apple.product-type.application";
@@ -235,6 +323,9 @@
 				LastSwiftUpdateCheck = 1400;
 				LastUpgradeCheck = 1400;
 				TargetAttributes = {
+					F8A5221F2A97CDFF00C6DB07 = {
+						CreatedOnToolsVersion = 14.0.1;
+					};
 					F8FD30DF2A7A3F60005A8EC3 = {
 						CreatedOnToolsVersion = 14.0.1;
 					};
@@ -250,16 +341,27 @@
 				tr,
 			);
 			mainGroup = F8FD30D72A7A3F5F005A8EC3;
+			packageReferences = (
+				F8A522172A97CD3B00C6DB07 /* XCRemoteSwiftPackageReference "OneSignal-XCFramework" */,
+			);
 			productRefGroup = F8FD30E12A7A3F60005A8EC3 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
 				F8FD30DF2A7A3F60005A8EC3 /* ForexCourse */,
+				F8A5221F2A97CDFF00C6DB07 /* OneSignalNotificationServiceExtension */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+		F8A5221E2A97CDFF00C6DB07 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		F8FD30DE2A7A3F60005A8EC3 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -315,16 +417,25 @@
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		F8A5221C2A97CDFF00C6DB07 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F8A522232A97CDFF00C6DB07 /* NotificationService.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		F8FD30DC2A7A3F60005A8EC3 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				F81C86442A7D179800D16699 /* MenuController.swift in Sources */,
-				F8FD30E82A7A3F60005A8EC3 /* LoadViewController.swift in Sources */,
 				F81C86482A7D45BC00D16699 /* QuizController.swift in Sources */,
 				F81349CB2A7E97DF0075762A /* NewsController.swift in Sources */,
+				F8463E842A97762A00FD6D26 /* OnboardingControllerSecond.swift in Sources */,
 				F8EB545B2A8274F9003DB4D4 /* Photo.swift in Sources */,
 				F8FD30E42A7A3F60005A8EC3 /* AppDelegate.swift in Sources */,
+				F8463E862A97763200FD6D26 /* OnboardingControllerLast.swift in Sources */,
 				F81349D12A7E97F10075762A /* PostController.swift in Sources */,
 				F81C863D2A7D100B00D16699 /* CoursesVC.swift in Sources */,
 				F81C864C2A7D5ABB00D16699 /* LessonModel.swift in Sources */,
@@ -332,11 +443,12 @@
 				F81349CD2A7E97E50075762A /* NewsModel.swift in Sources */,
 				F81E64A82A7FD2DB0028A838 /* TabBarController.swift in Sources */,
 				F81C86502A7D826300D16699 /* QuizModel.swift in Sources */,
-				F8442DA72A9379E700A80BE7 /* OnboardingController.swift in Sources */,
 				F8FD30E62A7A3F60005A8EC3 /* SceneDelegate.swift in Sources */,
 				F81C86362A7D050600D16699 /* CoursesCell.swift in Sources */,
 				F81349C92A7E910C0075762A /* SettingsController.swift in Sources */,
 				F81349CF2A7E97EA0075762A /* NewsCell.swift in Sources */,
+				F8463E802A97760D00FD6D26 /* LoadViewController.swift in Sources */,
+				F8463E822A97761F00FD6D26 /* OnboardingController.swift in Sources */,
 				F81C864A2A7D4CCD00D16699 /* ResultVC.swift in Sources */,
 				F81C863B2A7D075F00D16699 /* Extention.swift in Sources */,
 				F81C86382A7D056100D16699 /* CoursesModel.swift in Sources */,
@@ -344,6 +456,14 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		F8A522262A97CDFF00C6DB07 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F8A5221F2A97CDFF00C6DB07 /* OneSignalNotificationServiceExtension */;
+			targetProxy = F8A522252A97CDFF00C6DB07 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
 		F81C86422A7D127D00D16699 /* Localizable.strings */ = {
@@ -367,6 +487,60 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
+		F8A522292A97CDFF00C6DB07 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = OneSignalNotificationServiceExtension/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = OneSignalNotificationServiceExtension;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.courses.fx1.OneSignalNotificationServiceExtension;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		F8A5222A2A97CDFF00C6DB07 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = OneSignalNotificationServiceExtension/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = OneSignalNotificationServiceExtension;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.courses.fx1.OneSignalNotificationServiceExtension;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
 		F8FD30F22A7A3F61005A8EC3 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -487,6 +661,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = A0C3BE0CD23A93CB9E6566DE /* Pods-ForexCourse.debug.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_IDENTITY = "Apple Development";
@@ -524,6 +699,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 97C5EAEB006C4C5FD6149FBF /* Pods-ForexCourse.release.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_IDENTITY = "Apple Development";
@@ -560,6 +736,15 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		F8A522282A97CDFF00C6DB07 /* Build configuration list for PBXNativeTarget "OneSignalNotificationServiceExtension" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F8A522292A97CDFF00C6DB07 /* Debug */,
+				F8A5222A2A97CDFF00C6DB07 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		F8FD30DB2A7A3F5F005A8EC3 /* Build configuration list for PBXProject "ForexCourse" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -579,6 +764,30 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		F8A522172A97CD3B00C6DB07 /* XCRemoteSwiftPackageReference "OneSignal-XCFramework" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/OneSignal/OneSignal-XCFramework";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 3.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		F8A522182A97CD3B00C6DB07 /* OneSignal */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = F8A522172A97CD3B00C6DB07 /* XCRemoteSwiftPackageReference "OneSignal-XCFramework" */;
+			productName = OneSignal;
+		};
+		F8A5221A2A97CD3B00C6DB07 /* OneSignalExtension */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = F8A522172A97CD3B00C6DB07 /* XCRemoteSwiftPackageReference "OneSignal-XCFramework" */;
+			productName = OneSignalExtension;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = F8FD30D82A7A3F5F005A8EC3 /* Project object */;
 }

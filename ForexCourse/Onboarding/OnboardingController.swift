@@ -1,7 +1,18 @@
+import AppsFlyerLib
+import AppTrackingTransparency
+import FirebaseAnalytics
 import SnapKit
 import UIKit
 
 class OnboardingController: UIViewController {
+    private let bgView: UIImageView = {
+        let logoView = UIImageView()
+        logoView.image = UIImage(named: "bg2")
+        logoView.contentMode = .scaleToFill
+
+        return logoView
+    }()
+
     private let logoView: UIImageView = {
         let logoView = UIImageView()
         logoView.image = UIImage(named: "onbImg")
@@ -12,7 +23,7 @@ class OnboardingController: UIViewController {
 
     private let labelTitle: UILabel = {
         let labelTitle = UILabel()
-        labelTitle.textColor = UIColor(red: 0.11, green: 0.11, blue: 0.118, alpha: 1)
+        labelTitle.textColor = .white
         labelTitle.text = "onboarding.title0".localize()
         labelTitle.font = .systemFont(ofSize: 22, weight: .bold)
         labelTitle.numberOfLines = 0
@@ -25,7 +36,7 @@ class OnboardingController: UIViewController {
     private let contentLabel: UILabel = {
         let contentLabel = UILabel()
         contentLabel.text = "onboarding.content0".localize()
-        contentLabel.textColor = UIColor(red: 0.11, green: 0.11, blue: 0.118, alpha: 1)
+        contentLabel.textColor = .white
         contentLabel.font = .systemFont(ofSize: 17, weight: .regular)
         contentLabel.numberOfLines = 0
         contentLabel.textAlignment = .center
@@ -47,21 +58,46 @@ class OnboardingController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        view.backgroundColor = .white
+        view.backgroundColor = .clear
 
         setupViews()
         makeConstraints()
     }
 
+    override func viewDidAppear(_ animated: Bool) {
+        super.viewDidAppear(animated)
+
+        AppsFlyerLib.shared().logEvent("onboarding_start", withValues: nil)
+        Analytics.logEvent("onboarding_start", parameters: nil)
+
+        ATTrackingManager.requestTrackingAuthorization { status in
+            switch status {
+            case .authorized:
+                print("The user has granted access.")
+            case .denied, .restricted:
+                print("The user has denied access.")
+            case .notDetermined:
+                print("The user has not yet received an authorization request.")
+            @unknown default:
+                break
+            }
+        }
+    }
+
     private func setupViews() {
-        view.addSubviews(logoView, labelTitle, contentLabel, nextButton)
+        view.addSubviews(bgView, nextButton)
+        bgView.addSubviews(logoView, labelTitle, contentLabel)
     }
 
     private func makeConstraints() {
+        bgView.snp.makeConstraints { make in
+            make.edges.equalToSuperview()
+        }
+
         logoView.snp.makeConstraints { make in
             make.centerX.equalToSuperview()
             make.height.equalTo(202)
-            make.bottom.equalTo(labelTitle.snp.top).offset(-52)
+            make.bottom.equalTo(labelTitle.snp.top).offset(-60)
         }
 
         labelTitle.snp.makeConstraints { make in
@@ -84,8 +120,8 @@ class OnboardingController: UIViewController {
 
 extension OnboardingController {
     @objc private func nextVC() {
-        let vc = TabBarController()
+        let vc = OnboardingControllerSecond()
         vc.modalPresentationStyle = .fullScreen
-        self.present(vc, animated: true)
+        self.present(vc, animated: false)
     }
 }

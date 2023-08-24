@@ -7,5 +7,7 @@ target 'ForexCourse' do
 
   # Pods for ForexCourse
   pod 'SnapKit'
+  pod 'Firebase/Analytics'
+  pod 'AppsFlyerFramework'
 
 end

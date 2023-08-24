@@ -2,6 +2,14 @@ import SnapKit
 import UIKit
 
 class LoadViewController: UIViewController {
+    private let bgView: UIImageView = {
+        let logoView = UIImageView()
+        logoView.image = UIImage(named: "bg")
+        logoView.contentMode = .scaleToFill
+
+        return logoView
+    }()
+
     private let logoView: UIImageView = {
         let logoView = UIImageView()
         logoView.image = UIImage(named: "logo")
@@ -45,14 +53,18 @@ class LoadViewController: UIViewController {
         if UserDefaults.standard.string(forKey: "percent3") == "0" || UserDefaults.standard.string(forKey: "percent3") == nil {
             UserDefaults.standard.set("0", forKey: "percent3")
         }
-
     }
 
     private func setupViews() {
-        view.addSubview(logoView)
+        view.addSubviews(bgView)
+        bgView.addSubview(logoView)
     }
 
     private func makeConstraints() {
+        bgView.snp.makeConstraints { make in
+            make.edges.equalToSuperview()
+        }
+
         logoView.snp.makeConstraints { make in
             make.centerX.centerY.equalToSuperview()
             make.height.width.equalTo(81)
@@ -62,8 +74,15 @@ class LoadViewController: UIViewController {
 
 extension LoadViewController {
     @objc private func nextVC() {
-        let vc = OnboardingController()
-        vc.modalPresentationStyle = .fullScreen
-        self.present(vc, animated: true)
+        if (UserDefaults.standard.string(forKey: "showedOnboarding") != nil) == true {
+            let vc = TabBarController()
+            vc.modalPresentationStyle = .fullScreen
+            self.present(vc, animated: true)
+        } else {
+            UserDefaults.standard.set(true, forKey: "showedOnboarding")
+            let vc = OnboardingController()
+            vc.modalPresentationStyle = .fullScreen
+            self.present(vc, animated: false)
+        }
     }
 }
